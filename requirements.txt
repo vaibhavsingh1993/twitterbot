@@ -1,0 +1,3 @@
+SAMPLE FILE
+
+tweepy==3.5.0
